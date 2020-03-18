@@ -1,8 +1,8 @@
 # CloudSQL proxy on GKE with Workload identity example ###
 
-### This repo is a sample of how to use Workload identity with GKE CloudSQL proxy, you will learn how to deploy a Workload Identity enabled cluster, deploy a CloudSQL proxy that uses a KSA (kubernetes Service Account) to authenticate to a the CloudSQL API via a proxy and Workload Identity 
+### This repo is a sample of how to use Workload identity with GKE CloudSQL proxy, you will learn how to deploy a Workload Identity enabled cluster, deploy a CloudSQL proxy that uses a KSA (kubernetes Service Account) to authenticate to a the CloudSQL API via a proxy and Workload Identity ###
 
- NB: the commands below have been performed on a Linux system, MacOS should work the same way, i havent's tried this from a Windows computer, if you are a Windows user, maybe you can try using the Cloud Shell ###
+ ### NB: the commands below have been performed on a Linux system, MacOS should work the same way, i havent's tried this from a Windows computer, if you are a Windows user, maybe you can try using the Cloud Shell ###
 
 ## You will need gcloud and kubectl to be installed ##
 
